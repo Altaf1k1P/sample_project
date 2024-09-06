@@ -1,3 +1,3 @@
-# sample_project
+# E-commerce
 
 this is a sample project
